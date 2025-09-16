@@ -8,14 +8,14 @@
 </head>
 <body>
 <div class="card">
-    <h1> Top 4 Duy's Favourite List</h1>
+    <h1> Music List</h1>
     <p style="text-align: center;">
-        <a href="download?action=checkUser&productCode=lgx0x">LOWG TÁN GÁI PLAYLIST</a>
+        
         <br><br> <a href="download?action=checkUser&productCode=sky">SƠN TÙNG MTP</a>
         <br><br>
         <a href="download?action=checkUser&productCode=atsh">ANH TRAI SAY HIIII</a>
         <br><br>
-        <a href="download?action=checkUser&productCode=sweet">NGỌT</a>
+        <a href="download?action=checkUser&productCode=sweet">SÔ CÔ LA KẸO MÚT</a>
     </p>
 </div>
 </body>

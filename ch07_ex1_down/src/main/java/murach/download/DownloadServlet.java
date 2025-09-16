@@ -70,7 +70,7 @@ public class DownloadServlet extends HttpServlet {
                 url = "/" + productCode + "_download.jsp";
             }
         }
-        //Nếu tồn tại User rồi thì cho phép tải luôn :vvv
+        //Nếu tồn tại User rồi thì cho phép tải luôn 
         else{
             url = "/" + productCode + "_download.jsp";
         }

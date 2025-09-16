@@ -21,10 +21,6 @@
             <td>Audio Format</td>
         </tr>
         <tr>
-            <td>LẦN CUỐI</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sweet/lancuoi.mp3">MP3</a></td>
-        </tr>
-        <tr>
             <td>THẤY CHƯA EM</td>
             <td><a href="${pageContext.request.contextPath}/sound/sweet/thaychua.mp3">MP3</a></td>
         </tr>
