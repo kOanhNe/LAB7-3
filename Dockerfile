@@ -15,6 +15,8 @@ WORKDIR /app
 COPY pom.xml .
 COPY ch07_ex1_down/pom.xml ./ch07_ex1_down/
 COPY musicStore/pom.xml ./musicStore/
+# Giả sử COPY ở dòng trước 20
+COPY . /app/  # Copy toàn bộ project-root vào /app/
 
 # Tải tất cả dependency về
 RUN mvn dependency:go-offline
@@ -44,3 +46,4 @@ COPY --from=build /app/ch07_ex1_down/target/ch07_ex1_down.war /usr/local/tomcat/
 
 # Lệnh để khởi động server Tomcat khi container chạy
 CMD ["catalina.sh", "run"]
+
