@@ -9,40 +9,24 @@
 </head>
 <body>
 <div class="card">
-    <h1>
-        Downloader
-    </h1>
-    <h2>
-        ANH TRAI SAY HIIII
-    </h2>
+    <h1>Downloader</h1>
+    <h2>TAYLOR SWIFT</h2>
     <table>
         <tr>
             <td>Song title</td>
             <td>Audio Format</td>
         </tr>
         <tr>
-            <td>SAO HẠNG AAAAAAAAAAAAAAA</td>
-            <td><a href="{pageContext.request.contextPath}/sound/atsh/saohanga.mp3">MP3</a></td>
+            <td>Style</td>
+            <td><a href="${pageContext.request.contextPath}/sound/taylor/taylor-swift-style.mp3">MP3</a></td>
         </tr>
         <tr>
-            <td>NGÁO NGƠ</td>
-            <td><a href="{pageContext.request.contextPath}/sound/atsh/ngaongo.mp3">MP3</a></td>
+            <td>Cruel Summer</td>
+            <td><a href="${pageContext.request.contextPath}/sound/taylor/taylor-swift-cruel-summer.mp3">MP3</a></td>
         </tr>
         <tr>
-            <td>TRÌNH</td>
-            <td><a href="${pageContext.request.contextPath}/sound/atsh/trinh.mp3">MP3</a></td>
-        </tr>
-        <tr>
-            <td>KIM PHÚT KIM GIỜ</td>
-            <td><a href="${pageContext.request.contextPath}/sound/atsh/kimphutkimgio.mp3">MP3</a></td>
-        </tr>
-        <tr>
-            <td>CHÂN THÀNH</td>
-            <td><a href="${pageContext.request.contextPath}/sound/atsh/chanthanh.mp3">MP3</a></td>
-        </tr>
-        <tr>
-            <td>HÀO QUANG</td>
-            <td><a href="${pageContext.request.contextPath}/sound/atsh/haoquang.mp3">MP3</a></td>
+            <td>Cardigan</td>
+            <td><a href="${pageContext.request.contextPath}/sound/taylor/taylor-swift-cardigan.mp3">MP3</a></td>
         </tr>
     </table>
 

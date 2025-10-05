@@ -9,36 +9,24 @@
 </head>
 <body>
 <div class="card">
-    <h1>
-        Downloader
-    </h1>
-    <h2>
-        SƠN TÙNG MTP
-    </h2>
+    <h1>Downloader</h1>
+    <h2>ARIANA GRANDE</h2>
     <table>
         <tr>
             <td>Song title</td>
             <td>Audio Format</td>
         </tr>
         <tr>
-            <td>ĐỪNG LÀM TRÁI TIM ANH ĐAU</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sky/dunglamtraitimanhdau.mp3">MP3</a></td>
+            <td>Dangerous Woman</td>
+            <td><a href="${pageContext.request.contextPath}/sound/ariana/ariana-grande-dangerous-woman.mp3">MP3</a></td>
         </tr>
         <tr>
-            <td>NƠI NÀY CÓ ANH</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sky/noinaycoanh.mp3">MP3</a></td>
+            <td>God is a Woman</td>
+            <td><a href="${pageContext.request.contextPath}/sound/ariana/ariana-grande-god-is-a-woman.mp3">MP3</a></td>
         </tr>
         <tr>
-            <td>BUÔNG ĐÔI TAY NHAU RA</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sky/buongdoitaynhaura.mp3">MP3</a></td>
-        </tr>
-        <tr>
-            <td>HÃY TRAO CHO ANH</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sky/haytraochoanh.mp3">MP3</a></td>
-        </tr>
-        <tr>
-            <td>CHẠY NGAY ĐI</td>
-            <td><a href="${pageContext.request.contextPath}/sound/sky/chayngaydi.mp3">MP3</a></td>
+            <td>One Last Time</td>
+            <td><a href="${pageContext.request.contextPath}/sound/ariana/ariana-grande-one-last-time.mp3">MP3</a></td>
         </tr>
     </table>
 
