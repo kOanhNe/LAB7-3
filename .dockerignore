@@ -8,3 +8,6 @@ out/
 
 # Bỏ qua các file log
 *.log
+
+# Loại trừ entry gây lỗi
+/vào
